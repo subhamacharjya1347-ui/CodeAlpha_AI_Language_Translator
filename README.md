@@ -30,15 +30,15 @@ It uses the MyMemory Translation service to translate text and the Langdetect li
 
 ### 🇧🇩 English to Bengali
 
-![Bengali Translation](screenshots/bengali_translation.png)
+![Bengali Translation](bengali_translation.png)
 
 ### 🇮🇳 English to Hindi
 
-![Hindi Translation](screenshots/hindi_translation.png)
+![Hindi Translation](hindi_translation.png)
 
 ### 🇪🇸 English to Spanish
 
-![Spanish Translation](screenshots/spanish_translation.png)
+![Spanish Translation](spanish_translation.png)
 
 ## 🛠️ Technologies Used
 
